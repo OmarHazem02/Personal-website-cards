@@ -1,4 +1,4 @@
-# Personal Portfolio Website 💼
+# Personal Website Dashboard 💼
 
 This is a simple personal website that showcases my projects in **card format**.  
 I built it using **HTML , CSS and Sass** as practice to master **Flexbox** and **CSS Grid**.
