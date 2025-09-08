@@ -13,7 +13,7 @@ I built it using **HTML , CSS and Sass** as practice to master **Flexbox** and *
 ---
 
 ## 🚀 Live Demo
-[👉 Click here to view the project](YOUR-LIVE-SERVER-LINK)
+[👉 Click here to view the project](https://omarhazem02.github.io/Personal-website-cards/)
 
 ---
 
@@ -33,5 +33,8 @@ The main goal of this project was to:
 ---
 
 ## 🖼️ Screenshot
-(Add your project image here)
+### 🖥️ Desktop Version
+<img src="personalsitedashboardscreenshotdesktop.jpg" alt="Desktop version" >
 
+### 📱 Mobile Version
+<img src="personalsitedashboardscreenshotphone.jpg" alt="Mobile version">
